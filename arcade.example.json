@@ -1,0 +1,14 @@
+{
+  "arcades": [
+    {
+      "group_id": "<你的群号>",
+      "name": "<nearcade机厅全名>",
+      "alias": "m"
+    },
+    {
+      "group_id": "<你的群号>",
+      "name": "<nearcade机厅全名>",
+      "alias": "y"
+    }
+  ]
+}
